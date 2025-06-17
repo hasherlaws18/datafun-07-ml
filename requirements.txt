@@ -5,3 +5,6 @@ pyarrow
 matplotlib
 seaborn
 scipy
+numpy
+scipy
+scikit-learn
